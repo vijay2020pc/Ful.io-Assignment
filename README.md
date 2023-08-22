@@ -1,13 +1,13 @@
 # Ful.io-Assignment
 ## Question 1
-###WAP to check if the given contact number is valid or invalid using regular
+##WAP to check if the given contact number is valid or invalid using regular
 expressions-
 (Summary: Different country has a different type of representation on how they write their contact
 numbers, and the same number can be written in all kinds of other formats, so you have to
 analyse if the given number is valid or not based on your understanding).
-Examples of different formats of numbers found on websites:
-● 2124567890
-● 212-456-7890
+Examples of different formats of numbers found on websites:\
+● 2124567890\
+● 212-456-7890\
 ● (212)456-7890
 ● (212)-456-7890
 ● 212.456.7890
