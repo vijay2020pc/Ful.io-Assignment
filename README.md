@@ -1,5 +1,5 @@
 # Ful.io-Assignment
-## Question 1\
+## Question 1
 WAP to check if the given contact number is valid or invalid using regular
 expressions-
 (Summary: Different country has a different type of representation on how they write their contact
@@ -22,7 +22,7 @@ valid numbers. If you cannot prove all of them to be valid numbers, hoping to ha
 them correctly to pass this.\
 HINT: The standard format is - [+][country code][area code][local phone number]
 \
-##Question 2 :\
+## Question 2 :
 WAP to get the Social Links, Email & Contacts details of a website on user input.\
 Input:\
 https://ful.io\
@@ -33,7 +33,7 @@ https://www.linkedin.com/company/ful-io/\
 Email/ssupport@ful.io\
 Contact:\
 +1 343 303 6668\
-##Question 3\. 
+## Question 3. 
 One-Line Answers (Answers to be written on .txt file)-\
 A. What is reverse-i-search in a Linux terminal?\
 B. How do you list out the hidden directories using Linux command line tool?\
