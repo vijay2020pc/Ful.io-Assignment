@@ -1,0 +1,4 @@
+A. Reverse-i-search in a Linux terminal is a feature that allows searching through command history by typing a partial command and pressing Ctrl+R.
+B. To list hidden directories in Linux, use the command: ls -d .*
+C. I am proficient in using Linux-based OS like Ubuntu, Centos, etc.
+D. Yes, I've set up web applications using services like Apache, Nginx, and MySQL on servers.
